@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">ÖMER TURAN</p>
-
-###
-
 <p align="left">✨ Full Stack Web Developer</p>
 
 ###
