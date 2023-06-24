@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">✨ Full Stack Web Developer</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
