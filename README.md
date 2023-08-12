@@ -2,8 +2,12 @@
 
 ###
 
+![tema](https://github.com/mrTuranWebDeveloper/mrTuranWebDeveloper/assets/126421999/0ef3ee2d-4670-48cb-8719-ab93b8e8d378)
+
+
+###
+
 <h2 align="left">About me</h2>
-![image](https://github.com/mrTuranWebDeveloper/mrTuranWebDeveloper/assets/126421999/3817dae3-89a5-4a68-92d2-c30187f7138a)
 
 ###
 
