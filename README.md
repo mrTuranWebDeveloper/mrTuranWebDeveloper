@@ -3,10 +3,11 @@
 ###
 
 <h2 align="left">About me</h2>
+![image](https://github.com/mrTuranWebDeveloper/mrTuranWebDeveloper/assets/126421999/3817dae3-89a5-4a68-92d2-c30187f7138a)
 
 ###
 
-<p align="left">Hello! My name is Ömer Turan, and I'm a full-stack web developer. While I specialize in front-end development, I have a wide range of skills across various technologies.<br><br>I'm proficient in HTML, CSS, and JavaScript, and I prefer using React to build modern web applications. I'm also expanding my knowledge in React Redux for improved state management. My learning journey in React and Redux is ongoing, as I continuously strive to enhance my skills in these areas.<br><br>On the back-end, I work with Python and the Django framework. I have experience in database management, creating APIs, and developing robust server-side logic. Additionally, I'm also interested in C# and actively working on improving my skills in this language.<br><br>I value teamwork during the project development process and contribute to successful project completion through effective communication skills. I closely follow technological advancements and continuously adapt to new technologies.<br><br>If you would like to learn more about my projects or skills, please feel free to check out my GitHub profile. I'm excited to collaborate and contribute to new projects.<br><br>Thank you!</p>
+<p align="left">Hello! My name is Ömer Turan, and I'm a full-stack web developer. While I specialize in front-end development, I have a wide range of skills across various technologies.<br><br>I'm proficient in HTML, CSS, and JavaScript, and I prefer using React to build modern web applications. I'm also expanding my knowledge in React Redux for improved state management. My learning journey in React and Redux is ongoing, as I continuously strive to enhance my skills in these areas.<br><br>On the back-end, I work with Python and the Django framework. I have experience in database management, creating APIs, and developing robust server-side logic.<br><br>I value teamwork during the project development process and contribute to successful project completion through effective communication skills. I closely follow technological advancements and continuously adapt to new technologies.<br><br>If you would like to learn more about my projects or skills, please feel free to check out my GitHub profile. I'm excited to collaborate and contribute to new projects.<br><br>Thank you!</p>
 
 ###
 
