@@ -1,14 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-###
+<h1 align="left">Hey 👋 Hello!</h1>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Hello! I'm a full-stack web developer. While I specialize in front-end development, I have a wide range of skills across various technologies.<br><br>I'm proficient in HTML, CSS, and JavaScript, and I prefer using React to build modern web applications. I'm also expanding my knowledge in React Redux for improved state management. My learning journey in React and Redux is ongoing, as I continuously strive to enhance my skills in these areas.<br><br>On the back-end, I work with Python and the Django framework. I have experience in database management, creating APIs, and developing robust server-side logic.<br><br>I value teamwork during the project development process and contribute to successful project completion through effective communication skills. I closely follow technological advancements and continuously adapt to new technologies.<br><br>Thank you!</p>
+<p align="left">
+"I am a full-stack web developer experienced in HTML, CSS, JavaScript, React.js, Python, and Django. I develop projects using Bootstrap, jQuery, Material UI, Ant Design, DevExpress, and Next.js. I am familiar with SQLite3, Git, and GitHub. I am currently gaining experience in Node.js."</p>
 
 ###
 
